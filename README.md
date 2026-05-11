@@ -31,9 +31,8 @@ The main objective of this project was to build a fully responsive webpage that 
 
 # 📷 Project Preview
 
+![Uploading screenshot.png…]()
 
-
-![Project Preview](project 2/screenshot.png)
 
 
 ## 📚 Skills Learned
