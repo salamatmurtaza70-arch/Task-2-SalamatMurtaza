@@ -37,18 +37,8 @@ The main objective of this project was to build a fully responsive webpage that 
 
 ---
 
-# 📂 Folder Structure
 
-```bash
-project-2/
-│
-├── index.html
-├── style.css
-├── screenshot.png
-└── README.md
-
-
-# 📚 Skills Learned
+## 📚 Skills Learned
 
 - Responsive Web Design
 - CSS Media Queries
@@ -85,5 +75,7 @@ DecodeLabs Industrial Training Program — Batch 2026
 
 Special thanks to DecodeLabs for providing practical project-based learning experience and helping interns strengthen modern frontend development skills.
 
----
 
+<div align="center">
+🚀 Learning Responsive Design Through Real Projects
+</div> ```
