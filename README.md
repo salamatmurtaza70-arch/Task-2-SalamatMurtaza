@@ -6,7 +6,6 @@ This project was developed during my internship at DecodeLabs as part of the Fro
 
 The main objective of this project was to build a fully responsive webpage that adapts smoothly across desktop, tablet, and mobile devices using modern CSS responsive design techniques.
 
----
 
 # 🚀 Technologies Used
 
@@ -16,7 +15,7 @@ The main objective of this project was to build a fully responsive webpage that 
 - CSS Media Queries
 - Google Fonts
 
----
+
 
 # ✨ Features
 
@@ -29,13 +28,11 @@ The main objective of this project was to build a fully responsive webpage that 
 ✔ Modern Responsive Techniques  
 ✔ Maintainable Code Structure  
 
----
 
 # 📷 Project Preview
 
-![Project Preview](screenshot.png)
 
----
+![Project Preview](screenshot.png)
 
 
 ## 📚 Skills Learned
@@ -47,13 +44,12 @@ The main objective of this project was to build a fully responsive webpage that 
 - UI Structuring
 - Responsive Alignment
 
----
 
 # 🎯 Project Goal
 
 The purpose of this project was to understand how responsive webpages are built to ensure proper user experience across different screen sizes and devices.
 
----
+
 
 # 👨‍💻 Author
 
@@ -63,13 +59,11 @@ Frontend Developer
 WordPress Developer  
 BSCS Student  
 
----
 
 # 🔗 Internship Information
 
 DecodeLabs Industrial Training Program — Batch 2026
 
----
 
 # ⭐ Acknowledgment
 
@@ -78,4 +72,4 @@ Special thanks to DecodeLabs for providing practical project-based learning expe
 
 <div align="center">
 🚀 Learning Responsive Design Through Real Projects
-</div> ```
+</div> 
