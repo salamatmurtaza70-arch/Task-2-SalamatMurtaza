@@ -33,7 +33,7 @@ The main objective of this project was to build a fully responsive webpage that 
 
 
 
-![Project Preview]()
+![Project Preview](project 2/screenshot.png)
 
 
 ## 📚 Skills Learned
