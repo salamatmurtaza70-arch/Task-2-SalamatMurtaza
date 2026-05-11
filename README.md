@@ -31,7 +31,7 @@ The main objective of this project was to build a fully responsive webpage that 
 
 # 📷 Project Preview
 
-![Uploading screenshot.png…]()
+<img width="1366" height="1443" alt="screenshot" src="https://github.com/user-attachments/assets/7e141d95-d2ff-4bc5-89ea-ed9584ec9360" />
 
 
 
